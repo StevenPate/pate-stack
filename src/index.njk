@@ -1,0 +1,11 @@
+{% set title = 'Home' %}
+{% extends "layout.njk" %}
+
+{# This page is built with nunjucks! #}
+
+{% block body %}
+  <main class="container prose py-16">
+    <h1>This is the {{ title }} page.</h1>
+    <p>It's written in nunjucks at <code>src/index.njk</code></p>
+  </main>
+{% endblock %}
