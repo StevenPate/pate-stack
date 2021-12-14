@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 module.exports = {
   content: ['./src/**/*.{js,md,njk,svg}'],
   plugins: [
@@ -13,6 +15,12 @@ module.exports = {
     debugScreens: {
       position: ['bottom', 'right'],
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        Garamond: ['EB+Garamond', ...defaultTheme.fontFamily.serif],
+        Roboto: ['Roboto', ...defaultTheme.fontFamily.sans],
+      },
+
+    },
   },
 }

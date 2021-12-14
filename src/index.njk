@@ -4,8 +4,12 @@
 {# This page is built with nunjucks! #}
 
 {% block body %}
-  <main class="container prose py-16">
-    <h1>This is the {{ title }} page.</h1>
-    <p>It's written in nunjucks at <code>src/index.njk</code></p>
+  <main class="container py-16 prose">
+    <h1>Steven Pate</h1>
+    <h2>👋</h2>
+    <p>Hello. I'm Steven.</p>
+    {% image './src/img/riverbank.jpg', 'Photo at Ruth Creek' %}
+    <h2>🤙</h2>
+    <h3><a href="mailto:steven@stevenpate.com">steven@stevenpate.com</a></h3>
   </main>
 {% endblock %}
