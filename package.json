@@ -1,7 +1,7 @@
 {
-  "name": "tea-stack",
+  "name": "pate-stack",
   "version": "1.0.0",
-  "description": "A starter template for the TEA stack.",
+  "description": "A personal website",
   "main": "index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production npm-run-all clean -p build:*",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattwaler/tea-stack.git"
+    "url": "git+https://github.com/mattwaler/pate-stack.git"
   },
   "prettier": {
     "semi": false,
@@ -33,9 +33,9 @@
   "author": "Matt Waler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattwaler/tea-stack/issues"
+    "url": "https://github.com/mattwaler/pate-stack/issues"
   },
-  "homepage": "https://github.com/mattwaler/tea-stack#readme",
+  "homepage": "https://github.com/mattwaler/pate-stack#readme",
   "dependencies": {
     "alpinejs": "^3.1.0"
   },

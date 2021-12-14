@@ -17,10 +17,10 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        Garamond: ['EB+Garamond', ...defaultTheme.fontFamily.serif],
-        Roboto: ['Roboto', ...defaultTheme.fontFamily.sans],
+        Garamond: ['EB Garamond', ...defaultTheme.fontFamily.serif],
+        serif: ['EB Garamond', ...defaultTheme.fontFamily.serif],
+        sans: ['Roboto', ...defaultTheme.fontFamily.sans],
       },
-
     },
   },
 }
