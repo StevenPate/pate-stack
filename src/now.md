@@ -7,8 +7,8 @@ layout: markdown.njk
 
 ## ⏰
 
-I am living in Seattle, where I finally stopped walking after leaving Chicago  and hiking all 2,650 miles of the Pacific Crest Trail from Mexico to Canada. Since then I have been happily consumed with being a full-time dad to my now almost-two-year-old son. I'm cautiously dangling my toes towards the waters of contract work but continuine to spend most of my free time on a pandemic project: building my idea of a great online bookstore, which I have begun to document at <a href="https://whatisabookstore.com">WhatIsABookstore.com</a>. You can do amazing things with JavaScript these days. Otherwise I've been having a great time exploring the Olympic peninsula of Washington, running, and learning more about contemporary poetry by picking a short poem to share most every day.</p>
+I have just moved to Port Angeles, Washington, just a couple of miles from Olympic National Park on (you guessed it) the Olympic Peninsula. Mountains, beaches, forests are all right here,  and of course I've been exploring and biking and hiking and running everywhere I can. I'm still a full-time dad to the funniest and fastest two-year-old kid you have ever seen. I'm starting a bit more web strategy and development work as I spend some shreds of free time on taking my pandemic project public. I have this idea about building a great online bookstore experience, which I have begun to document at <a href="https://bookshelves.dev">bookshelves.dev</a>. I recently went along on my first work party with the Washington Trails Association doing trail maintenance, and that was incredibly fun and rewarding. I'm looking forward to a summer of being outside a lot, writing about reading, thinking about coding, and getting to know a new community.</p>
 
 ## This page was inspired by the [/now movement](https://sivers.org/nowff).
 
-Last updated Dec 12, 2021 from Seattle.
+Last updated May 20, 2022 from Port Angeles, WA.
