@@ -13,7 +13,7 @@ When not working on the house or being a full-time dad to a very full-time four-
 
 The bookstore just came up for sale. I would love to buy it, but probably need some help. Want to help me? Let me know! I have a ton of ideas. An <em>imperial</em> ton, even. 
 
-Otherwise I van be found having fun outside, writing about reading, thinking about coding, and getting to know our new community.
+I continue to tinker with crafting an online bookselling experience that foregrounds bookstore identity and curation, leveraging APIs, a modern tech stack and all the things that make the web a little bit better these days. Right now, I'm playing with it at <a href="https://tbr.fyi">tbr.fyi</a>. Otherwise I van be found having fun outside, writing about reading, thinking about coding, and getting to know our new community.
 
 ## This page was inspired by the [/now movement](https://sivers.org/nowff).
 
