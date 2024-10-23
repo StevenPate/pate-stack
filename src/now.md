@@ -7,14 +7,14 @@ layout: markdown.njk
 
 ## ⏰
 
-After settling in Port Angeles, Washington, I purchased a wonderful little house on a bit of land just outside of Port Angeles (a half a mile from Olympic National Park) with my partner and permanent trail companion Rosie. We are elated and overwhelmed at the prospect of making it our own and managing it all.
+Trail Angel-ing season is over. We hosted about twenty hikers thru-hiking the Pacific Northwest Trail. It is so fun to meet and help these adventurous souls, but it takes a toll on our family of introverts. As nice as it is to share our space with creatures-of-the-trail, it will be nice to have it to ourselves during the winter.
 
-I'm starting a bit more web strategy and development work as I spend some shreds of free time on taking my pandemic project public. I have this idea about building a great online bookstore experience, which I have begun to document at <a href="https://bookshelves.dev">bookshelves.dev</a>. 
+When not working on the house or being a full-time dad to a very full-time four-and-a-half-year-old, I am a bookseller and handling technology for a magnificent local indie bookstore, <a href="https://portbooknews.com">Port Book and News</a>.  
 
-I recently went along on a few work parties with the Washington Trails Association doing trail maintenance, and that was incredibly fun and rewarding. 
+The bookstore just came up for sale. I would love to buy it, but probably need some help. Want to help me? Let me know! I have a ton of ideas. An <em>imperial</em> ton, even. 
 
-When not working on the house or being a full-time dad to a very full-time two-and-a-half-year-old, I'm having fun outside, writing about reading, thinking about coding, and getting to know a new community.
+Otherwise I van be found having fun outside, writing about reading, thinking about coding, and getting to know our new community.
 
 ## This page was inspired by the [/now movement](https://sivers.org/nowff).
 
-Last updated August 12, 2022 from Port Angeles, WA.
+Last updated October 12, 2022 from Port Angeles, WA.
